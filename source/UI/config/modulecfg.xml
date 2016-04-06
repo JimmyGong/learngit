@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+	<Module name="libDetailViewPlugin.dylib" isLoad="true">
+		<Path>/Users/jimmy/qtProjects/source/build-ui-Desktop_Qt_5_6_0_clang_64bit-Debug/PlugIns/DetailViewPlugin</Path>
+		<Actions isExport="false"></Actions>
+	</Module>
+	<Module name="libInteractionViewPlugin.dylib" isLoad="true">
+		<Path>/Users/jimmy/qtProjects/source/build-ui-Desktop_Qt_5_6_0_clang_64bit-Debug/PlugIns/InteractionViewPlugin</Path>
+		<Actions isExport="false"></Actions>
+	</Module>
+	<Module name="libScopeViewPlugin.dylib" isLoad="true">
+		<Path>/Users/jimmy/qtProjects/source/build-ui-Desktop_Qt_5_6_0_clang_64bit-Debug/PlugIns/ScopeViewPlugin</Path>
+		<Actions isExport="true">Instrument</Actions>
+	</Module>
+	<Module name="libDutViewPlugin.dylib" isLoad="true">
+		<Path>/Users/jimmy/qtProjects/source/build-ui-Desktop_Qt_5_6_0_clang_64bit-Debug/PlugIns/DutViewPlugin</Path>
+		<Actions isExport="true">Instrument</Actions>
+	</Module>
+	<Module name="libFctViewPlugin.dylib" isLoad="true">
+		<Path>/Users/jimmy/qtProjects/source/build-ui-Desktop_Qt_5_6_0_clang_64bit-Debug/PlugIns/FctViewPlugin</Path>
+		<Actions isExport="true">Instrument</Actions>
+	</Module>
+	<Module name="libBarcodeViewPlugin.dylib" isLoad="true">
+		<Path>/Users/jimmy/qtProjects/source/build-ui-Desktop_Qt_5_6_0_clang_64bit-Debug/PlugIns/BarcodeViewPlugin</Path>
+		<Actions isExport="true">Instrument</Actions>
+	</Module>
+    <Module name="libLoopTestViewPlugin.dylib" isLoad="true">
+        <Path>/Users/jimmy/qtProjects/source/build-ui-Desktop_Qt_5_6_0_clang_64bit-Debug/PlugIns/LoopTestViewPlugin</Path>
+        <Actions isExport="true">Instrument</Actions>
+    </Module>
+</Modules>
